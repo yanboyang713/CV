@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.7.28)  17 OCT 2018 23:00
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.7.28)  17 OCT 2018 23:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv.tex
-(./cv.tex
+**cvEnglish.tex
+(./cvEnglish.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./friggeri-cv.cls
@@ -1247,8 +1247,8 @@ File: english.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 \@quotelevel=\count410
 \@quotereset=\count411
 
-(./cv.aux)
-\openout1 = `cv.aux'.
+(./cvEnglish.aux)
+\openout1 = `cvEnglish.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -1312,12 +1312,12 @@ Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `cv.bcf'.
+\openout5 = `cvEnglish.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'cv.bbl' not found.
+Package biblatex Info: ... file 'cvEnglish.bbl' not found.
 
-No file cv.bbl.
+No file cvEnglish.bbl.
 Package biblatex Info: Reference section=0 on input line 19.
 Package biblatex Info: Reference segment=0 on input line 19.
 *geometry* driver: auto-detecting
@@ -1368,9 +1368,9 @@ LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
 LaTeX Info: Redefining \nameref on input line 19.
 
-(./cv.out) (./cv.out)
+(./cvEnglish.out) (./cvEnglish.out)
 \@outlinefile=\write6
-\openout6 = `cv.out'.
+\openout6 = `cvEnglish.out'.
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 25.
@@ -1655,26 +1655,26 @@ ne 355.
 [6]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 375.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 375.
- (./cv.aux)
+ (./cvEnglish.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 375.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 375.
-Package rerunfilecheck Info: File `cv.out' has not changed.
+Package rerunfilecheck Info: File `cvEnglish.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package logreq Info: Writing requests to 'cv.run.xml'.
-\openout1 = `cv.run.xml'.
+Package logreq Info: Writing requests to 'cvEnglish.run.xml'.
+\openout1 = `cvEnglish.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  39083 strings out of 492970
- 763151 string characters out of 6133938
- 1278149 words of memory out of 5000000
+ 763256 string characters out of 6133938
+ 1278177 words of memory out of 5000000
  42639 multiletter control sequences out of 15000+600000
  534275 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,10n,76p,10453b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,10n,76p,10460b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.pdf (6 pages).
+Output written on cvEnglish.pdf (6 pages).
