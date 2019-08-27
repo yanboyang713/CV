@@ -1,0 +1,8 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[1] Config.pm:307> INFO - Logfile is 'cvChinese.blg'
+[36] biber:315> INFO - === Wed Aug  7, 2019, 13:31:32
+[61] Biber.pm:371> INFO - Reading 'cvChinese.bcf'
+[186] Utils.pm:209> ERROR - Error: Found biblatex control file version 3.4, expected version 3.5.
+This means that your biber (2.12) and biblatex (3.11) versions are incompatible.
+See compat matrix in biblatex or biber PDF documentation.
+[186] Biber.pm:114> INFO - ERRORS: 1
